@@ -22,7 +22,7 @@
         "php": "^8.0 || ^8.2",
         "guzzlehttp/psr7": "^2.0",
         "guzzlehttp/guzzle": "^7.5",
-        "brick/money": "^0.6",
+        "brick/money": "^0.7",
         "ext-json": "*"
     },
     "require-dev": {
